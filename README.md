@@ -1,4 +1,4 @@
-# Trading-Notes
+# Trading Projects
 
 Written by Anthony Chan
 

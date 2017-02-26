@@ -1,5 +1,5 @@
 #This code takes downloaded stock data from freestockcharts.com and measures how well
-# it compares to the Normal distribution. Comparisons include numerical summaries
+# it resembles the Normal distribution. Comparisons include numerical summaries
 # (IQR, skewness, kurtosis) and graphical summaries (histogram vs Normal PDF, 
 # empirical CDF vs Normal CDF, QQPlot)
 
